@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "display.h": "c",
+        "keyboard.h": "c",
+        "app.h": "c",
+        "misc.h": "c",
+        "rtc.h": "c",
+        "system.h": "c",
+        "string.h": "c",
+        "math.h": "c"
+    }
+}
